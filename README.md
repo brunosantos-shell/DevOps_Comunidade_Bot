@@ -112,7 +112,6 @@ O bot estará rodando no modo **Polling**.
   - Nome completo
   - Email
   - Autoavaliação (0-5) para Linux, Docker, Kubernetes, CI/CD, etc.
-- As respostas ficam visíveis apenas para o bot.
 
 ---
 
