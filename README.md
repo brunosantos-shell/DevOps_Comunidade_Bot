@@ -107,11 +107,11 @@ O bot estará rodando no modo **Polling**.
 ---
 
 ## 📋 Fluxo do Formulário
-- Em grupos, o `/form` envia um **botão com link** para abrir o formulário no privado.
-- No privado, o formulário pergunta:
+- Em grupos, o `/form` inicia Autoavaliação (0-5) para Linux, Docker, Kubernetes, CI/CD, etc.
+- Formulário pergunta:
   - Nome completo
   - Email
-  - Autoavaliação (0-5) para Linux, Docker, Kubernetes, CI/CD, etc.
+
 
 ---
 
